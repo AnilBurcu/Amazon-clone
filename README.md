@@ -6,4 +6,4 @@ HTML5 and CSS based amazon home page.
 
 <h2> Screen <h2>
 
-/* ![](ekran.gif) */
+![](ekran.gif)
